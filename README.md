@@ -29,8 +29,11 @@ and Magic words
 </script>
 ```
 color => background-color
+
 text-color => changing menu text color
+
 opacity => transparency for fullscreen background
+
 hovercolor => mouseover link background
 
 
