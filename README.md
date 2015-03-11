@@ -1,7 +1,7 @@
 menupuncher v1.0
 ===========
 
-Jquery Team Viewer v1.0
+Jquery Menu Puncher v1.0
 
 Demo = Check out www.jenaldesign.com/menupuncher
 
